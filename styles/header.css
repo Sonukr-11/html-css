@@ -82,6 +82,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .search-button{
@@ -94,6 +95,7 @@
     margin-left: -1px;
     margin-right: 10px;
     position: relative ;
+    cursor: pointer;
 }
 
 .search-button .tooltip,
